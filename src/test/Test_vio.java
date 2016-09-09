@@ -5,5 +5,7 @@ package test;
  */
 public class Test_vio {
     private int a = 2;
+    private int b = 3;
+
 }
 
